@@ -1,6 +1,6 @@
 {
     "name": "kouosl/portal-seo",
-    "description": "Sample module for KOUOSL PORTAL",
+    "description": "Search engine optimization for KOUOSL PORTAL",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "portal-seo", "module", "modules"],
     "license": "BSD-3-Clause",
