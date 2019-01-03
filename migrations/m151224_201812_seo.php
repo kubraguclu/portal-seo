@@ -15,6 +15,7 @@ class m151224_201812_sample extends Migration
             'title' => $this->string(200)->notNull(),
 			'description' => $this->text()->notNull(),
             'keywords' => $this->text()->notNull(),
+	    'description' => $this->text()->notNull(),
         ], $tableOptions);
         $this->createTable('{{%sample_data}}', [
             'id' => $this->primaryKey(),
