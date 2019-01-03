@@ -4,12 +4,14 @@ namespace kouosl\portal-seo\models;
 use Yii;
 
 /**
- * Bu class Seo alanlarýnýn tanýmlamalarýný içermektedir.
+ * Bu class Seo alanlarinin tanimlarini icerir
  *
  * @property integer $id
  * @property string $title
  * @property string $keywords
  * @property string $description
+ *
+ * @author Kubra Guclu <kubraguclu.1994@gmail.com>
  */
 class Seo extends \yii\db\ActiveRecord
 {

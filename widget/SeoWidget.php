@@ -1,6 +1,10 @@
 <?php
 namespace kouosl\portal-seo\widgets;
 
+
+/**
+ * @author Kubra Guclu <kubraguclu.1994@gmail.com>
+ */
 class SeoWidget extends CWidget
 {
 

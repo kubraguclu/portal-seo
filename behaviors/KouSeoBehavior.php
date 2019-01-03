@@ -1,4 +1,6 @@
 <?php
+namespace kouosl\portal-seo\behaviors;
+
 /**
  * @author Kubra Guclu <kubraguclu.1994@gmail.com>
  */
