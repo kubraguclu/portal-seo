@@ -34,7 +34,7 @@ Portal dizinindeki `composer.json` dosyasına gidilerek modül projemize kaydedi
        
     ....   
 
-    "kouosl/REPONAME": "dev-master"
+    "kouosl/portal-seo": "dev-master"
 },
 
 ....
